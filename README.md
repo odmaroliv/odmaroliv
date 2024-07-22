@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- Intro Section -->
-## Hi there! 👋 I'm [Your Name](https://github.com/odmaroliv) 
+## Hi there! 👋 I'm (https://github.com/odmaroliv) 
 
 I’m a C# backend developer who also loves working with Flutter and exploring new technologies. I enjoy creating efficient solutions and working on innovative projects.
 
