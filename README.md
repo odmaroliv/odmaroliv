@@ -1,5 +1,5 @@
 <!-- Intro Section -->
-## Hi there! 👋 I'm Daniel(https://github.com/odmaroliv)
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
 I’m a C# backend developer who also loves working with Flutter and exploring new technologies. I enjoy creating efficient solutions and working on innovative projects.
 
@@ -7,8 +7,9 @@ I’m a C# backend developer who also loves working with Flutter and exploring n
 ### Fun Facts
 
 - 🎨 I’m currently learning MudBlazor and experimenting with UI design.
-- 🛠️ I’m working on a multi-tenant application for managing imports and inspections.
-- 🌍 I’m fluent in English and Spanish.
+-  🌱 Dart, 💙 Flutter, C#, ASP.NET.
+- ⚡ Passionate about new technologies.
+- 👯 Looking to contribute with the organization and Opensource Dart/C# Apps/Libraries and Web 
 
 <!-- GitHub Stats Card -->
 ### GitHub Stats
@@ -22,8 +23,7 @@ I’m a C# backend developer who also loves working with Flutter and exploring n
 
 </br>
 </br>
-<!-- Extra Pins -->
-### My Most Proud Repos
+
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=odmaroliv&repo=github-readme-stats)](https://github.com/odmaroliv/github-readme-stats)
 
