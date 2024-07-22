@@ -18,8 +18,8 @@ I’m a C# backend developer who also loves working with Flutter and exploring n
 </p>
 
 <div>
-  <a href="https://github.com/rohitsangwan01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odmaroliv&count_private=true&theme=cobalt&show_icons=true"/>
+  <a href="https://github.com/odmaroliv">
+ <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odmaroliv&count_private=true&theme=cobalt&show_icons=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaroliv&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
