@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/odmarolivares/)
+
 <!-- Intro Section -->
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
@@ -23,14 +25,6 @@ I’m a C# backend developer who also loves working with Flutter and exploring n
 
 </br>
 </br>
-
-
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=odmaroliv&repo=github-readme-stats)](https://github.com/odmaroliv/github-readme-stats)
-
-
-### Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/odmarolivares/)
 
 
 
