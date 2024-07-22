@@ -9,7 +9,7 @@ I’m a C# backend developer who also loves working with Flutter and exploring n
 ### Fun Facts
 
 - 🎨 I’m currently learning MudBlazor and experimenting with UI design.
--  🌱 Dart, 💙 Flutter, C#, ASP.NET.
+-  🌱 Dart, 💙 Flutter, C#, ASP.NET, 📦 PocketBase.
 - ⚡ Passionate about new technologies.
 - 👯 Looking to contribute with the organization and Opensource Dart/C# Apps/Libraries and Web 
 
