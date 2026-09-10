@@ -8,9 +8,9 @@ I’m a C# backend developer who also loves working with Flutter and exploring n
 <!-- Custom Section -->
 ### Fun Facts
 
--  🌱 Dart, 💙 Flutter, C#, ASP.NET, 📦 PocketBase.
-- ⚡ Passionate about new technologies.
-- 👯 Looking to contribute with the organization and Opensource Dart/C# Apps/Libraries and Web 
+- Dart, Flutter, C#, ASP.NET, PocketBase.
+- Passionate about new technologies.
+- Looking to contribute with the organization and Opensource Dart/C# Apps/Libraries and Web 
 
 <!-- GitHub Stats Card -->
 ### GitHub Stats
