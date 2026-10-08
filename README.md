@@ -1,30 +1,47 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/odmarolivares/)](https://www.linkedin.com/in/odmarolivares/)
+## Odmar Olivares
 
-<!-- Intro Section -->
-### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
+CTO of a cross-border logistics operation between San Diego, Tijuana and
+Los Cabos. I build the systems that move freight across the border:
+warehouse software, fleet tracking, vehicle video, and the security around
+them.
 
-I’m a C# backend developer who also loves working with Flutter and exploring new technologies. I enjoy creating efficient solutions and working on innovative projects.
+### Now: [OpenMDVR](https://github.com/openmdvr/openmdvr)
 
-<!-- Custom Section -->
-### Fun Facts
+A self-hosted fleet video and GPS platform, open source under Apache-2.0.
+I designed and built it end to end.
 
-- Dart, Flutter, C#, ASP.NET, PocketBase.
-- Passionate about new technologies.
-- Looking to contribute with the organization and Opensource Dart/C# Apps/Libraries and Web 
+It started with a gap I hit running our own GPS platform: open-source
+tracking servers did not support dashcams, so fleet video meant a closed
+third-party service. If you self-host everything, that was a dead end.
+OpenMDVR is the answer.
 
-<!-- GitHub Stats Card -->
-### GitHub Stats
-</p>
+- Device servers in Go for JT/T 808, JT/T 1078 and the GT06 family.
+- Live dashcam video in the browser over WebRTC with audio, authorized
+  with one-time tickets.
+- Tenant isolation enforced inside PostgreSQL with Row Level Security,
+  hardened through adversarial security reviews.
+- Load tested at 50,000 simulated trackers on a 2 vCPU server, with every
+  position stored. Along the way I found and fixed a PostgreSQL commit
+  bottleneck that capped ingestion at about 550 positions per second.
 
-<div>
-  <a href="https://github.com/odmaroliv">
- <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odmaroliv&count_private=true&theme=cobalt&show_icons=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaroliv&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+### Other work
 
-</br>
-</br>
+- **WMSARN.** Warehouse management for binational 3PL distribution:
+  receiving, inventory, putaway and RFID. FastAPI and PostgreSQL, in
+  production since 2024, built with the team I lead.
+- **Tracknel.** Our GPS fleet tracking platform, re-architected on Traccar
+  and TimescaleDB. It cut operating cost by more than 80% with no loss of
+  coverage, and it is where OpenMDVR began.
+- **C-TPAT certification.** Led the company's certification with U.S.
+  Customs and Border Protection, from security policy to physical audits.
 
+### What I work with
 
+Go, Python (FastAPI), C# / ASP.NET, PostgreSQL and TimescaleDB, Docker,
+React and TypeScript, Flutter and Dart. Binary device protocols, real-time
+video (WebRTC, RTMP), multi-tenant security.
 
+### Links
 
+[odmardaniel.com](https://odmardaniel.com/) ·
+[LinkedIn](https://www.linkedin.com/in/odmarolivares/)
