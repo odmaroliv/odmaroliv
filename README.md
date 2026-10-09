@@ -1,9 +1,8 @@
 ## Odmar Olivares
 
-CTO of a cross-border logistics operation between San Diego, Tijuana and
-Los Cabos. I build the systems that move freight across the border:
-warehouse software, fleet tracking, vehicle video, and the security around
-them.
+I build the systems that move freight across the border: warehouse
+software, fleet tracking, vehicle video, and the security around them,
+for cross-border logistics between the U.S. and Mexico.
 
 ### Now: [OpenMDVR](https://github.com/openmdvr/openmdvr)
 
@@ -28,12 +27,12 @@ OpenMDVR is the answer.
 
 - **WMSARN.** Warehouse management for binational 3PL distribution:
   receiving, inventory, putaway and RFID. FastAPI and PostgreSQL, in
-  production since 2024, built with the team I lead.
+  production since 2024.
 - **Tracknel.** Our GPS fleet tracking platform, re-architected on Traccar
   and TimescaleDB. It cut operating cost by more than 80% with no loss of
   coverage, and it is where OpenMDVR began.
-- **C-TPAT certification.** Led the company's certification with U.S.
-  Customs and Border Protection, from security policy to physical audits.
+- **C-TPAT.** Security policy, infrastructure and audit preparation for a
+  certification with U.S. Customs and Border Protection.
 
 ### What I work with
 
