@@ -1,46 +1,18 @@
 ## Odmar Olivares
 
-I build the systems that move freight across the border: warehouse
-software, fleet tracking, vehicle video, and the security around them,
-for cross-border logistics between the U.S. and Mexico.
+I build software for cross-border logistics: warehouse systems, fleet
+tracking and vehicle video.
 
-### Now: [OpenMDVR](https://github.com/openmdvr/openmdvr)
+Right now I'm working on [OpenMDVR](https://github.com/openmdvr/openmdvr),
+an open-source, self-hosted platform for fleet dashcams and GPS. It came
+out of a real problem: when we needed video for our trucks, the
+open-source tracking tools didn't support dashcams, and the only option
+was a closed third-party service.
 
-A self-hosted fleet video and GPS platform, open source under Apache-2.0.
-I designed and built it end to end.
+Before that I built WMSARN, a warehouse system for binational 3PL
+distribution, and Tracknel, our GPS tracking platform, which cut its
+operating cost by more than 80%.
 
-It started with a gap I hit running our own GPS platform: open-source
-tracking servers did not support dashcams, so fleet video meant a closed
-third-party service. If you self-host everything, that was a dead end.
-OpenMDVR is the answer.
+Mostly Go, Python, C# and PostgreSQL.
 
-- Device servers in Go for JT/T 808, JT/T 1078 and the GT06 family.
-- Live dashcam video in the browser over WebRTC with audio, authorized
-  with one-time tickets.
-- Tenant isolation enforced inside PostgreSQL with Row Level Security,
-  hardened through adversarial security reviews.
-- Load tested at 50,000 simulated trackers on a 2 vCPU server, with every
-  position stored. Along the way I found and fixed a PostgreSQL commit
-  bottleneck that capped ingestion at about 550 positions per second.
-
-### Other work
-
-- **WMSARN.** Warehouse management for binational 3PL distribution:
-  receiving, inventory, putaway and RFID. FastAPI and PostgreSQL, in
-  production since 2024.
-- **Tracknel.** Our GPS fleet tracking platform, re-architected on Traccar
-  and TimescaleDB. It cut operating cost by more than 80% with no loss of
-  coverage, and it is where OpenMDVR began.
-- **C-TPAT.** Security policy, infrastructure and audit preparation for a
-  certification with U.S. Customs and Border Protection.
-
-### What I work with
-
-Go, Python (FastAPI), C# / ASP.NET, PostgreSQL and TimescaleDB, Docker,
-React and TypeScript, Flutter and Dart. Binary device protocols, real-time
-video (WebRTC, RTMP), multi-tenant security.
-
-### Links
-
-[odmardaniel.com](https://odmardaniel.com/) ·
-[LinkedIn](https://www.linkedin.com/in/odmarolivares/)
+[odmardaniel.com](https://odmardaniel.com/) · [LinkedIn](https://www.linkedin.com/in/odmarolivares/)
